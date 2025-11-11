@@ -12,7 +12,7 @@
         "data": {
           "label": "HocVien",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -32,7 +32,7 @@
         "data": {
           "label": "NhanVien",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -52,7 +52,7 @@
         "data": {
           "label": "GiaoVien",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -72,7 +72,7 @@
         "data": {
           "label": "TrungTam",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -92,7 +92,7 @@
         "data": {
           "label": "Address",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -112,7 +112,7 @@
         "data": {
           "label": "KhoaHoc",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -132,7 +132,7 @@
         "data": {
           "label": "LopHoc",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -162,7 +162,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false,
+          "isConnectable": true,
           "isIdentifying": false
         },
         "measured": {
@@ -193,7 +193,7 @@
             "exactConstraints": []
           },
           "isSelected": false,
-          "isConnectable": false,
+          "isConnectable": true,
           "isIdentifying": false
         },
         "measured": {
@@ -213,7 +213,7 @@
         "data": {
           "label": "MoiQuanHe",
           "type": "Weak",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -244,7 +244,7 @@
           },
           "isSelected": false,
           "isIdentifying": true,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -263,7 +263,7 @@
         "data": {
           "label": "NgayLe",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -293,7 +293,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -322,7 +322,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -351,7 +351,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -380,7 +380,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -409,7 +409,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -438,7 +438,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -457,7 +457,7 @@
         "data": {
           "label": "HocPhi",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -487,7 +487,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -516,7 +516,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -544,7 +544,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -573,7 +573,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -602,7 +602,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -631,7 +631,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -652,7 +652,7 @@
           "label": "Attribute",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -681,7 +681,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -702,7 +702,7 @@
           "label": "MoiQH",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -723,7 +723,7 @@
           "label": "HoTen",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -744,7 +744,7 @@
           "label": "NgaySinh",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -765,7 +765,7 @@
           "label": "ThanhPho",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -786,7 +786,7 @@
           "label": "Phuong",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -807,7 +807,7 @@
           "label": "QuocTich",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -826,9 +826,11 @@
         },
         "data": {
           "label": "Ma_GV",
-          "types": [],
+          "types": {
+            "Unique": true
+          },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -849,7 +851,7 @@
           "label": "ChuyenMon",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -870,7 +872,7 @@
           "label": "Luong",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -891,7 +893,7 @@
           "label": "GioiTinh",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -912,7 +914,7 @@
           "label": "NgaySinh",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -931,9 +933,11 @@
         },
         "data": {
           "label": "Ma_NV",
-          "types": [],
+          "types": {
+            "Unique": true
+          },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -954,7 +958,7 @@
           "label": "NgaySinh",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -975,7 +979,7 @@
           "label": "Luong",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -996,7 +1000,7 @@
           "label": "HoTen",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1019,7 +1023,7 @@
             "Unique": true
           },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1040,7 +1044,7 @@
           "label": "Email",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1061,7 +1065,7 @@
           "label": "SoDT",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1082,7 +1086,7 @@
           "label": "GioiTinh",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1103,7 +1107,7 @@
           "label": "NgaySinh",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1126,7 +1130,7 @@
             "Composite": true
           },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1147,7 +1151,7 @@
           "label": "Ho",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1168,7 +1172,7 @@
           "label": "Ten",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1189,7 +1193,7 @@
           "label": "Attribute",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1212,7 +1216,7 @@
             "Unique": true
           },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1231,9 +1235,11 @@
         },
         "data": {
           "label": "Ma_Lop",
-          "types": [],
+          "types": {
+            "Unique": true
+          },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1254,7 +1260,7 @@
           "label": "SiSo",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1277,7 +1283,7 @@
             "Unique": true
           },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1298,7 +1304,7 @@
           "label": "NgayBD",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1319,7 +1325,7 @@
           "label": "NgayKT",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1340,7 +1346,7 @@
           "label": "TenKH",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1365,7 +1371,7 @@
             "Unique": false
           },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1386,7 +1392,7 @@
           "label": "GiaKH",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1407,7 +1413,7 @@
           "label": "TrangThai",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1428,7 +1434,7 @@
           "label": "SoLuong",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1447,9 +1453,11 @@
         },
         "data": {
           "label": "Ma_HP",
-          "types": [],
+          "types": {
+            "Unique": true
+          },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1470,7 +1478,7 @@
           "label": "GiaTT",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1491,7 +1499,7 @@
           "label": "PhuongThuc",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1512,7 +1520,7 @@
           "label": "NgayTT",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1531,9 +1539,11 @@
         },
         "data": {
           "label": "Ma_NL",
-          "types": [],
+          "types": {
+            "Unique": true
+          },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1552,8 +1562,8 @@
         "data": {
           "label": "DiemDanh",
           "type": "Regular",
-          "isConnectable": true,
-          "isSelected": true
+          "isConnectable": false,
+          "isSelected": false
         },
         "measured": {
           "width": 100,
@@ -1582,7 +1592,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -1610,7 +1620,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -1639,7 +1649,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -1664,7 +1674,7 @@
             "id": "f33dc879-916e-449b-98e5-56655c3dad2a"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -1683,9 +1693,11 @@
         },
         "data": {
           "label": "Ma_DD",
-          "types": [],
+          "types": {
+            "Unique": true
+          },
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1706,7 +1718,7 @@
           "label": "SiSo",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1727,7 +1739,7 @@
           "label": "SoCoMat",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1748,7 +1760,7 @@
           "label": "SoVang",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1769,7 +1781,7 @@
           "label": "Trang Thai",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1792,7 +1804,7 @@
             "Composite": true
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -1813,7 +1825,7 @@
           "label": "NgayBD",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1834,7 +1846,7 @@
           "label": "NgayKT",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1855,7 +1867,7 @@
           "label": "Ngay",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1876,7 +1888,7 @@
           "label": "TrangThai",
           "types": [],
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1913,7 +1925,7 @@
           "isSelfReferencing": true,
           "isIdentifying": false,
           "isSelected": false,
-          "isConnectable": true
+          "isConnectable": false
         },
         "measured": {
           "width": 100,
@@ -1932,7 +1944,7 @@
         "data": {
           "label": "LichHoc",
           "type": "Regular",
-          "isConnectable": true,
+          "isConnectable": false,
           "isSelected": false
         },
         "measured": {
@@ -1962,7 +1974,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -1991,7 +2003,7 @@
             "maxCardinality": "Many"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -2020,7 +2032,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -2048,7 +2060,7 @@
             "maxCardinality": "One"
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -2071,7 +2083,7 @@
             "Unique": true
           },
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -2092,7 +2104,7 @@
           "label": "NgayHoc",
           "types": [],
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -2113,7 +2125,7 @@
           "label": "GioHoc",
           "types": [],
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -2134,7 +2146,7 @@
           "label": "LinkLH",
           "types": [],
           "isSelected": false,
-          "isConnectable": false
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -2162,7 +2174,8 @@
             "minCardinality": "Mandatory",
             "maxCardinality": "One"
           },
-          "isSelected": false
+          "isSelected": false,
+          "isConnectable": true
         },
         "measured": {
           "width": 100,
@@ -3101,9 +3114,9 @@
       }
     ],
     "viewport": {
-      "x": 706.4771419020963,
-      "y": 63.265693755650375,
-      "zoom": 1.0000000000000004
+      "x": 680.1824060571197,
+      "y": 152.99345689222716,
+      "zoom": 0.6597539553864475
     }
   },
   "name": "Education",
@@ -3120,5 +3133,5 @@
     "id": 132688
   },
   "id": 154119,
-  "updatedAtTimestamp": 1762838180
+  "updatedAtTimestamp": 1762840133
 }
