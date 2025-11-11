@@ -1,7 +1,7 @@
 
 startDate = "2026-01-01";
-totalClasses = 20;
-classWeekdays = [2, 4];
+totalClasses = 16;
+classWeekdays = [2, 4]; // Quy uoc: 0: Chu Nhat, 1:Thu 2 ,...
 holidays = ["2026-01-01", "2026-01-20"];
 holidayRanges = [{ NgayBD: "2026-01-25", ngayKT: "2026-02-03" }, { NgayBD: "2026-02-15", ngayKT: "2026-02-20" }];
 
@@ -48,6 +48,7 @@ function findAll(startDate, totalClasses, classWeekdays, holidays, holidayRanges
 obj.fullSchedule = findAll(startDate, totalClasses, classWeekdays, holidays, holidayRanges);
 obj.endDate = obj.fullSchedule[totalClasses - 1];
 
+console.log("Start day:", startDate)
 console.log("holidays:", holidays);
 console.log("holidayRanges:", holidayRanges);
 console.log(obj);
